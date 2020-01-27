@@ -1,4 +1,4 @@
-# Semana-Oministack-10
+# SemanaOministack10
 Aplicação para cadastrar e localizar de desenvolvedores por geolocalização e suas skills de tecnologias.
 
 # Como iniciar backend:
