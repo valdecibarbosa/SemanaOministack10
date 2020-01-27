@@ -2,7 +2,16 @@
 Aplicação para cadastrar e localizar de desenvolvedores por geolocalização e suas skills de tecnologias.
 
 # Como iniciar backend:
- - Instalar dependências (./backend yarn install)
+ 
+ - Instalar dependências
+ ```sh
+ cd backend
+ ```
+  ```sh
+ yarn install
+ ```
+ 
+ 
 - Configure a conexão com o mongo Atlas no arquivo src/index.js
 - Rode o comando: yarn dev
 
@@ -27,7 +36,13 @@ Json (body): Opcionais - techs, name, bio, avatar_url, latitude e longitude
 DELETE - Deletar Dev: http://localhost:3333/devs/"github_username"
 
 # Como iniciar frontend:
-- Instalar dependências (./web yarn install)
+ - Instalar dependências
+ ```sh
+ cd web
+ ```
+  ```sh
+ yarn install
+ ````
 - Rode o comando: yarn start
 
 # Frontend
@@ -35,9 +50,15 @@ DELETE - Deletar Dev: http://localhost:3333/devs/"github_username"
 - Css padrão
 
 # Como iniciar mobile:
-- Instalar dependências (./mobile yarn install)
+ - Instalar dependências
+ ```sh
+ cd web
+ ```
+  ```sh
+ yarn install
+ ````
 - Rode o comando: yarn start
-- instalar o app do expo instalado em seu smartphone
+- instalar o app do expo em seu smartphone
 - Scan do QR code
  
 # Mobile
