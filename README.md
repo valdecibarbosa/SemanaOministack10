@@ -9,9 +9,7 @@ Aplicação para cadastrar e localizar de desenvolvedores por geolocalização e
  ```
   ```sh
  yarn install
- ```
- 
- 
+ ``` 
 - Configure a conexão com o mongo Atlas no arquivo src/index.js
 - Rode o comando: yarn dev
 
@@ -76,4 +74,12 @@ DELETE - Deletar Dev: http://localhost:3333/devs/"github_username"
 - React-native-webview
 - Axios
 - Socket.io
+
+# Softwares Utilizados
+- Chocolatey (Gerenciador de pacotes para Windows) [https://chocolatey.org/]
+- NodeJs (Famework Javascript V8) [https://nodejs.org/en/download/package-manager/#windows]
+- VSCode (IDE para codificar) [https://code.visualstudio.com/] 
+- yarn (Gerenciador de dependências para a Stack) [https://legacy.yarnpkg.com/pt-BR/docs/install#windows-stable] 
+- insomnia (Client para executar recursos REST) [https://insomnia.rest/download/]
+- MongoDB Atlas (banco de dados não relacional na nuvem) [https://www.mongodb.com/cloud/atlas]
 
